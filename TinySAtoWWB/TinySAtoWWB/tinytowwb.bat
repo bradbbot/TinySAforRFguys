@@ -1,0 +1,1 @@
+powershell C:\PATHTOYOUR\TinytoWWBfix.ps1
