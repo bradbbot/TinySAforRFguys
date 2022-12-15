@@ -1,1 +1,1 @@
-pwsh C:\Users\Brad\Desktop\TinySAtowwb\TinytoWWBfix.ps1
+powershell C:\PATHTOYOUR\TinytoWWBfix.ps1
